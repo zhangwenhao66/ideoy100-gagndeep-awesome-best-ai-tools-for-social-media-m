@@ -14,6 +14,7 @@ category: marketing
 > This list tracks the best AI tools for social media managers in 2026 using one hard rule: every recommendation must point to a public GitHub repository. The result is a practical, SEO-friendly awesome list of self-hosted and developer-accessible tools for content generation, scheduling, automation, image cleanup, voice workflows, and trend research without locking your team into closed SaaS products.
 
 ## Table of Contents
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [TL;DR](#tldr)
 - [Why This List](#why-this-list)
 - [Open Source Tools](#open-source-tools)
